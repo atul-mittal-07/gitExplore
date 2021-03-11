@@ -5,3 +5,5 @@ Threefunction - I have added a unnecessary function here.
 
 Newfunction - Newfunction added
 Newerfunction - newer function added
+
+Added a chart function in our branch 
