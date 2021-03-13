@@ -4,3 +4,4 @@
 !app.js
 *.php
 *.log
+notignored.txt
