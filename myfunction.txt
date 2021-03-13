@@ -7,3 +7,5 @@ Newfunction - Newfunction added
 Newerfunction - newer function added
 
 Added a chart function in our branch 
+
+Added this line as testing for git diff command
